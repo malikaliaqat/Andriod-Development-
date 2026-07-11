@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">form2</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="cnic">CNIC</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
